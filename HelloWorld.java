@@ -10,7 +10,7 @@ public class HelloWorld {
         System.out.println("The number is: " + number);
 
         // Example of calling a method
-        greetUser("lisa");
+        greetUser("lisa-ibrahim");
     }
 
     // A simple method that prints a greeting for a given user
